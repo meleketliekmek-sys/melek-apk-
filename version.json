@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/meleketliekmek-sys/melek-apk-/releases/download/v1.0.2/melek-v2.apk",
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/.../releases/download/v1.0.4/melek-v3.apk",
   "zorunlu": false,
-  "notlar": "Güncelleme testi"
+  "notlar": "İlk kararlı sürüm"
 }
